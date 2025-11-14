@@ -1,2 +1,2 @@
 # apna-college
-Author- Sonal Kumar
+Author- Sonal Mehta
